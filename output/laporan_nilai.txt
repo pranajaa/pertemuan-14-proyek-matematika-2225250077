@@ -1,0 +1,7 @@
+REKAP DAN ANALISIS NILAI MATEMATIKA KELAS
+=========================================
+Rata-rata nilai: 78.60
+Nilai tertinggi: 90.0
+Nilai terendah: 65.0
+Mencapai KKM: 4 siswa
+Belum mencapai KKM: 1 siswa
